@@ -22,7 +22,7 @@ public class Ex2 implements Exercise {
 
     @Override
     public void run(Scanner sc) {
-        System.out.println("--- Exercício 1 ---\n");
+        System.out.println("--- Exercício 2 ---\n");
 
         Student student = new Student("Eduardo");
 

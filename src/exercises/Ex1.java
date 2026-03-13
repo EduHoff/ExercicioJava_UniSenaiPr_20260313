@@ -13,8 +13,6 @@ ligue a lâmpada, exiba seu estado na tela, depois desligue-a e exiba novamente 
 estado atualizado.
 */
 
-//OBS.: use o debugger caso queira fazer o teste de mesa
-
 public class Ex1 implements Exercise {
 
     @Override
