@@ -5,8 +5,12 @@ import java.util.Scanner;
 import entities.Lamp;
 
 /* 
-Analise o código abaixo e faça o teste de mesa, indicando ao final qual será
-a saída do programa.
+Crie uma classe chamada Lâmpada para representar o funcionamento de uma
+lâmpada. Essa classe deve possuir uma informação que indique se a lâmpada está
+ligada ou desligada. Implemente métodos que permitam ligar a lâmpada, desligála
+e mostrar seu estado atual. No programa principal, crie um objeto dessa classe,
+ligue a lâmpada, exiba seu estado na tela, depois desligue-a e exiba novamente o
+estado atualizado.
 */
 
 //OBS.: use o debugger caso queira fazer o teste de mesa
